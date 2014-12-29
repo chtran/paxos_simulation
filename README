@@ -1,0 +1,8 @@
+Simulation of Classic Paxos, Fast Paxos, Fixed Quorum
+
+/src: Java implementation of the protocols
+
+/python: Simulate completion time of the protocols
+
+/edges: Recorded latencies between Amazon EC2 data centers
+
